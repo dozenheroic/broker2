@@ -1,0 +1,16 @@
+{
+  "offsets": {
+    "A": {
+      "orders": 3
+    },
+    "B": {
+      "orders": 1
+    },
+    "groupA": {
+      "orders": 2
+    },
+    "groupB": {
+      "orders": 1
+    }
+  }
+}
